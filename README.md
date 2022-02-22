@@ -1,6 +1,7 @@
 # WindKiller
-Window Killer for Windows
-This is mostly just a fun project to test myself with some OOP, the Windows API, and learn the ctypes module
+#### Window Killer for Windows
+This is mostly just a fun project to test myself with some OOP, the Windows API, and learn the ctypes module.
+Should work with python versions 2.7.18 and 3+ (From my testing but if there is an issue please talk about it on the issues section)
 
 ## How to Use
 1. Once file is cloned/downloaded, open up a terminal and `cd` to the directory you place the program in
