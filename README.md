@@ -11,7 +11,7 @@ This is mostly just a fun project to test myself with some OOP and get better wi
 Two of the error codes you might run into are error codes 5 & 6
 
 ### Error Code 5
-This is for access denied and can usually be solved by elvating your privliges
+This is for access denied and can usually be solved by elvating the privliges of the terminal that you are using 
 
 ### Error Code 6
 This is for an invalid handle/window name so just check how you typed the window name in
