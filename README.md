@@ -1,6 +1,6 @@
 # WindKiller
 Window Killer for Windows
-This is mostly just a fun project to test myself with some OOP and get better with the ctypes module
+This is mostly just a fun project to test myself with some OOP, the Windows API, and learn the ctypes module
 
 ## How to Use
 1. Once file is cloned/downloaded, open up a terminal and `cd` to the directory you place the program in
