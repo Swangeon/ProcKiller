@@ -4,7 +4,7 @@ This is mostly just a fun project to test myself with some OOP and get better wi
 
 ## How to Use
 1. Once file is cloned/downloaded, open up a terminal and `cd` to the directory you place the program in
-2. Type `python ProcKiller.py`
+2. Type `python WindKiller.py`
 3. Enter the EXACT name of the window you want to terminate and hit `enter`
 
 ## Errors
