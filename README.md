@@ -10,9 +10,7 @@ Should work with python versions 2.7.18 and 3+ (From my testing but if there is 
 
 ## Errors
 Two of the error codes you might run into are error codes 5 & 6
-
-### Error Code 5
-This is for access denied and can usually be solved by elvating the privliges of the terminal that you are using 
-
-### Error Code 6
-This is for an invalid handle/window name so just check how you typed the window name in
+- Error Code 5
+  - This is for access denied and can usually be solved by elevating the privliges of the terminal that you are using 
+- Error Code 6
+  - This is for an invalid handle/window name so just check how you typed the window name in
